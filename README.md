@@ -1,2 +1,7 @@
-# demo-la-chacha
-Demo web para La Chacha — diseñada por eterlab.
+# La Chacha
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
